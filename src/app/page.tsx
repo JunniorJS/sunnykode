@@ -11,9 +11,6 @@ import Skeleton from "../../components/Skeleton";
 
 export default function Home() {
 
-  <Head>
-  </Head>
-
   return (
 
     <>
