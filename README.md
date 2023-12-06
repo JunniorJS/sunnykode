@@ -4,7 +4,7 @@ Fiz este site utilizando NextJS, Tailwind e a biblioteca FlowBite.
 O Javascript está desabilitado, então algumas coisas não vão funcionar, como o menu hamburguer.
 Irei ativar na próxima versão. Esta foi apenas um teste, porém, eu curti e irei terminá-lo!
 
-##README Padrão do NEXTJS
+## README Padrão do NEXTJS
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
